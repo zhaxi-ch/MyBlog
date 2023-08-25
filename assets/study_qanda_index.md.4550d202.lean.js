@@ -1,0 +1,1 @@
+import{_ as p,c as a,o as r,d as e}from"./app.c44b6ade.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"study/qanda/index.md"}'),t={name:"study/qanda/index.md"},i=e("",49),o=[i];function l(k,n,S,c,s,d){return r(),a("div",null,o)}const u=p(t,[["render",l]]);export{_ as __pageData,u as default};
