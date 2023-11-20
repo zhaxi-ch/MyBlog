@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t}from"./app.6940013b.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"workrecord/ganwu/index.md"}'),a={name:"workrecord/ganwu/index.md"};function o(n,c,s,d,i,p){return t(),r("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};

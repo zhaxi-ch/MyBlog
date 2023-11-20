@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s,d as a}from"./app.6940013b.js";const u=JSON.parse('{"title":"英语单词","description":"","frontmatter":{},"headers":[],"relativePath":"study/english/index.md"}'),i={name:"study/english/index.md"},r=a("",3),n=[r];function c(o,_,d,l,p,m){return s(),e("div",null,n)}const k=t(i,[["render",c]]);export{u as __pageData,k as default};
